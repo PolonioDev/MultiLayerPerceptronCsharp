@@ -1,0 +1,13 @@
+C:\Mis Proyectos\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.exe
+C:\Mis Proyectos\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.deps.json
+C:\Mis Proyectos\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.runtimeconfig.json
+C:\Mis Proyectos\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.runtimeconfig.dev.json
+C:\Mis Proyectos\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.dll
+C:\Mis Proyectos\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.pdb
+C:\Mis Proyectos\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.csprojAssemblyReference.cache
+C:\Mis Proyectos\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.csproj.CoreCompileInputs.cache
+C:\Mis Proyectos\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.AssemblyInfoInputs.cache
+C:\Mis Proyectos\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.AssemblyInfo.cs
+C:\Mis Proyectos\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.dll
+C:\Mis Proyectos\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.pdb
+C:\Mis Proyectos\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.genruntimeconfig.cache
